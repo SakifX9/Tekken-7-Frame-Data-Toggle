@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <CheatTable CheatEngineTableVersion="34">
   <Forms>
-    <CETrainer Class="TTrainerForm" Encoding="Ascii85">-IU#K/3t#S$M)j+5#/zwAaH/=IN2::J$4,IM5J,ur(=fz#Mu6lj53,2;]A-j8n@,t8ZH5ed+CjRn0VYYY0OF-tQPgiGvoPwp7-[VkGcrq;G^)x#wDQ}%5zb!y)n(WPsT8p*{OXL1iDyCt28VuuB;1F=!2IdTv}q@L0@.wl%rhmD)Gf3y^#myFMx0Sj9ySq+YsyV(8/{4GH}3iN-1BcRYa}N72JLw!*gV+ch*.E$r@eCB1sR6g{T#=7zHkO@#i?XEAJ#cVxj]auOI4VzH,CcqT9UAJ69sjO8[3J5GYZAqd2]^RH{]a#=yEf.$(7sn#Ccbi8P_wLC95MQ@JAy?ppI?PQyt(*/NiBf^ISa:z:;oVcUCtAFhFoxKh.dvg?)9ff5RRnr!63;Fa;a!o=(?wo.k}?;E.;jg+21VL!RV^Y#9KiEhkn8Z,Ok4SQiUjs4U#/]UKyDs:6J8!1xdk,+ZB6J{x}Yh^)1j$d!Jvb+X=t1=:X1$0Ii.n)qDUF%W^VjkDkJWeW0konR;]{#*1IK,GU)sq5Vh4C:oYrm6*ao?RFmm8A_STIcRH{Uu5uzy$2zmx5xF6TGhf4bAg9tydF,h9scl_2$nlrFl?]0gN1quFSRN6BO[ZPA_g!}3-Hd:9yMkao{DXq:=,p260y:,NPB=.JjJLY@.0Sp[axX@(Bx$$D(dChv^UzR9,-2#B/6W1c/];4Tc*v(NH]h7*b=PE==W.g!s^7;/^-0nEvUNiQy[ywTrrqoeJlOFEaIzYGRY/t5d/eH=R:G0.DQ]d:V.Z[3Cml*Y!YlosIYa8{RY$zE*I?]D%Vl3o*Dg=rL0*jQo!CucJ=d,Ac#:p;#$B-OUHzIf#ZYON@pRi-u%?SnBfPmb{8M}Q#hiZ74x(Hsx3.^pCB16utb]M,r6w_,y%0$7hzfak3O^N5tKlQ%a2r+Dt^%U1rsTKGGUlK-n#^.qM%Z?/9-c#8s?wF,=BB7pN}1VHE=</CETrainer>
+    <CETrainer Class="TTrainerForm" Encoding="Ascii85">#Z+mi):ZrzlePI8jO!3WJ0T:4/HR^hGg=uW)s,yyA;k%)TdQtdIqtggYxqSRx$ndu.K%[t(boB#CUN4F[}U*v:fn2zCPKJ;bhwMLAT$SY#Kp]BqiVF%gON19?3cBV#{jFahKc#y^Pm{KN.5ezBf_;GTvDF5o=w[xAwLpi25llqn-,6ME-*XD8SI9PLN3:Ro+u73.yh%$0Lv^uYB8PKeO{NNvh^GzlT-lYp),9KAer!GH@-!y21HnPA$[)a7X_Wg7$tK=rP_}qQ9l}@I3AP_jBHbZfwTalX{zZf9Wt.HvQ;Sb/iOnM10MK(_2XRDYIH_,+7O-2:T=ib*jl[XGhp3Z8D{{evmRf9fK1QE3%N0SpCd,QV:_0I2Eu3^N6]uvQu5sMgZKmoCm6?anwU]$Gxp0_P8$]muN5)yuz.*5ne8tmPv_#r*]2zsAz#SSdS$oemP2j+x.xUYbZ2A=(F*,Ob,p.nJkf=2xBF@6Rw4z,bmE{8zhNixan0X5)lIX@H{UR0NSBRk:0?4BM}1,;PK?6}AA5dq*z7]MZLe)SR[vdxy:is0oWh0ICqkizoN-YdkP]7xJ4)Vqw}xE:aSb-x4+T;PHX4l{l^a8)0f*UfiE06xKhb8w?2)PlW%,qJ.iB,tGSwNQZ6WJ;wGO#/zv;}kR75}zs_?CFt4YtROnx9MT/twpg$^.unXY75PRiOaA]2#,D5G,z(vE5r%StA6Bwu^=,EAo_YHs@?A?T#BAFSVugX,/6br}z}-d=SyocZMVsibE[LT2w)ziLhMXr@qS=%e8*(;*W6A.pSPz_U/?^VVqAbf@Y5WWU?h,rKTl?vpMKY^-7BWsgSxPd7q.0R</CETrainer>
   </Forms>
   <CheatEntries>
     <CheatEntry>
       <ID>0</ID>
       <Description>"Player 1 Frame Data"</Description>
-      <LastState Value="2" RealAddress="143442788"/>
+      <Options moRecursiveSetValue="1"/>
+      <LastState Value="0" RealAddress="143442788"/>
       <VariableType>4 Bytes</VariableType>
       <Address>"TekkenGame-Win64-Shipping.exe"+3442788</Address>
       <Hotkeys>
@@ -18,88 +19,32 @@
             <Key>219</Key>
           </Keys>
           <Value>2</Value>
-          <Description>Enable FrameData on Player 1 Side</Description>
+          <Description>Turn on FrameData Display</Description>
           <ID>0</ID>
-        </Hotkey>
-        <Hotkey>
-          <Action>Activate</Action>
-          <Keys>
-            <Key>16</Key>
-            <Key>219</Key>
-          </Keys>
-          <Description>Enable FrameData on Player 1 Side</Description>
-          <ID>1</ID>
           <ActivateSound>Activate</ActivateSound>
         </Hotkey>
         <Hotkey>
-          <Action>Deactivate</Action>
-          <Keys>
-            <Key>16</Key>
-            <Key>221</Key>
-          </Keys>
-          <Description>Disable FrameData on Player 1 Side</Description>
-          <ID>2</ID>
-          <DeactivateSound>Deactivate</DeactivateSound>
-        </Hotkey>
-        <Hotkey>
           <Action>Set Value</Action>
           <Keys>
             <Key>16</Key>
             <Key>221</Key>
           </Keys>
           <Value>0</Value>
-          <Description>Disable FrameData on Player 1 Side</Description>
+          <Description>Turn off FrameData Display</Description>
           <ID>3</ID>
+          <ActivateSound>Deactivate</ActivateSound>
         </Hotkey>
       </Hotkeys>
-    </CheatEntry>
-    <CheatEntry>
-      <ID>1</ID>
-      <Description>"Player 2 Frame Data"</Description>
-      <LastState Value="2" Activated="1" RealAddress="14344278C"/>
-      <ShowAsSigned>0</ShowAsSigned>
-      <VariableType>4 Bytes</VariableType>
-      <Address>"TekkenGame-Win64-Shipping.exe"+344278C</Address>
-      <Hotkeys>
-        <Hotkey>
-          <Action>Activate</Action>
-          <Keys>
-            <Key>16</Key>
-            <Key>219</Key>
-          </Keys>
-          <Description>Enable FrameData on Player 2 Side</Description>
-          <ID>0</ID>
-        </Hotkey>
-        <Hotkey>
-          <Action>Set Value</Action>
-          <Keys>
-            <Key>16</Key>
-            <Key>219</Key>
-          </Keys>
-          <Value>2</Value>
-          <Description>Enable FrameData on Player 2 Side</Description>
+      <CheatEntries>
+        <CheatEntry>
           <ID>1</ID>
-        </Hotkey>
-        <Hotkey>
-          <Action>Deactivate</Action>
-          <Keys>
-            <Key>16</Key>
-            <Key>221</Key>
-          </Keys>
-          <Description>Disable FrameData on Player 2 Side</Description>
-          <ID>2</ID>
-        </Hotkey>
-        <Hotkey>
-          <Action>Set Value</Action>
-          <Keys>
-            <Key>16</Key>
-            <Key>221</Key>
-          </Keys>
-          <Value>0</Value>
-          <Description>Disable FrameData on Player 2 Side</Description>
-          <ID>3</ID>
-        </Hotkey>
-      </Hotkeys>
+          <Description>"Player 2 Frame Data"</Description>
+          <LastState Value="0" RealAddress="14344278C"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"TekkenGame-Win64-Shipping.exe"+344278C</Address>
+        </CheatEntry>
+      </CheatEntries>
     </CheatEntry>
   </CheatEntries>
   <UserdefinedSymbols/>
@@ -117,16 +62,9 @@ if (getCEVersion==nil) or (getCEVersion()&lt;RequiredCEVersion) then
 end
 addresslist=getAddressList()
 memrec0=addresslist.getMemoryRecordByID(0)
-memrec1=addresslist.getMemoryRecordByID(1)
 
 memrec0_hotkey0=memrec0.getHotkeyByID(0)
-memrec0_hotkey1=memrec0.getHotkeyByID(1)
-memrec0_hotkey2=memrec0.getHotkeyByID(2)
 memrec0_hotkey3=memrec0.getHotkeyByID(3)
-memrec1_hotkey0=memrec1.getHotkeyByID(0)
-memrec1_hotkey1=memrec1.getHotkeyByID(1)
-memrec1_hotkey2=memrec1.getHotkeyByID(2)
-memrec1_hotkey3=memrec1.getHotkeyByID(3)
 
 function onHotkey0(Hotkey)
   --Executed before the hotkey is handled
@@ -145,70 +83,19 @@ function onHotkey1(Hotkey)
   end
 end
 
-memrec0_hotkey1.onHotkey=onHotkey1
-function onHotkey2(Hotkey)
-  --Executed before the hotkey is handled
-  CETrainer.CHEAT2.setActive(true, 1500)
-  if gPlaySoundOnAction then
-    playSound(gDeactivateSound)
-  end
-end
-
-memrec0_hotkey2.onHotkey=onHotkey2
-function onHotkey3(Hotkey)
-  --Executed before the hotkey is handled
-  CETrainer.CHEAT3.setActive(true, 1500)
-  if gPlaySoundOnAction then
-    playSound(gActivateSound)
-  end
-end
-
-memrec0_hotkey3.onHotkey=onHotkey3
-function onHotkey4(Hotkey)
-  --Executed before the hotkey is handled
-  CETrainer.CHEAT4.setActive(true, 1500)
-  if gPlaySoundOnAction then
-    playSound(gActivateSound)
-  end
-end
-
-memrec1_hotkey0.onHotkey=onHotkey4
-function onHotkey5(Hotkey)
-  --Executed before the hotkey is handled
-  CETrainer.CHEAT5.setActive(true, 1500)
-  if gPlaySoundOnAction then
-    playSound(gActivateSound)
-  end
-end
-
-memrec1_hotkey1.onHotkey=onHotkey5
-function onHotkey6(Hotkey)
-  --Executed before the hotkey is handled
-  CETrainer.CHEAT6.setActive(true, 1500)
-  if gPlaySoundOnAction then
-    playSound(gDeactivateSound)
-  end
-end
-
-memrec1_hotkey2.onHotkey=onHotkey6
-function onHotkey7(Hotkey)
-  --Executed before the hotkey is handled
-  CETrainer.CHEAT7.setActive(true, 1500)
-  if gPlaySoundOnAction then
-    playSound(gActivateSound)
-  end
-end
-
-memrec1_hotkey3.onHotkey=onHotkey7
+memrec0_hotkey3.onHotkey=onHotkey1
 CETrainer.SEPERATOR.Visible=false
 
-getAutoAttachList().add("TekkenGame-Win64-Shipping.exe")
+getAutoAttachList().add("TekkenGame-Win64-Shipping.EXE")
 gPlaySoundOnAction=false
 CETrainer.show()
 function AboutClick()
   showMessage(gAboutText)
 end
-gAboutText=[[]]
+gAboutText=[[Source: 
+https://github.com/SakifX9/Tekken-7
+-Frame-Data-Toggle 
+Made with Cheat Engine. ]]
 
 function CloseClick()
   --called by the close button onClick event, and when closing the form
