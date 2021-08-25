@@ -7,3 +7,5 @@ Shift + [ to enable
 
 
 Shift + ]  to disable
+
+Must open options menu after enabling/disabling to see the changes.
