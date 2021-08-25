@@ -3,7 +3,7 @@ Toggle the Frame Data option in training mode without owning DLC 13: Frame Data 
 
 Grab latest [here](https://github.com/SakifX9/Tekken7FrameDataToggle/releases/latest).
 
-Shift + [ to enable (Turn on frame data disaply)
+Shift + [ to enable (Turn on frame data display)
 
 
 Shift + ]  to disable (Turn off frame display)
