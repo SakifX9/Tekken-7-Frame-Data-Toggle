@@ -1,7 +1,8 @@
 # Tekken7FrameDataToggle
-Toggle the Frame Data option in practice mode without owning DLC 13: Frame Data Display
+Toggle the Frame Data option in practice mode without owning [DLC 13: Frame Data Display](https://store.steampowered.com/app/1162602)
 
-WARNING: THERE MAY BE A CHANCE OF YOUR SAVE FILE BEING UNUSABLE SO MAKE SURE TO TURN OFF THE FRAME DATA DISPLAY BEFORE LEAVING TRAINING MODE. If you forgot to turn off the frame data display and closed your game, you can restore your save file with the ownership of [DLC 13: Frame Data Display](https://store.steampowered.com/app/1162602)
+READ THIS BEFORE USING: MAKE SURE TO TURN OFF THE FRAME DATA DISPLAY IN TRAINING MODE BEFORE EXITING YOUR GAME OTHERWISE YOUR SAVE DATA WILL BECOME UNUSABLE AND YOU WILL REQUIRE THE OWNERSHIP OF [DLC 13: Frame Data Display](https://store.steampowered.com/app/1162602) TO RECOVER IT.
+
 
 Grab latest [here](https://github.com/SakifX9/Tekken7FrameDataToggle/releases/latest).
 
