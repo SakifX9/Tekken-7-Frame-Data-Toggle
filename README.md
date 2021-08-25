@@ -1,5 +1,5 @@
 # Tekken7FrameDataToggle
-Be able to view framedata without buying the DLC 
+Toggle the Frame Data option in training mode without owning DLC 13: Frame Data Display
 
 Shift + [ to enable
 
