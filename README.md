@@ -14,7 +14,5 @@ Shift + ]  to disable (Turn off frame display)
 ![image](https://user-images.githubusercontent.com/16516667/130734703-4108d17f-1b20-4a68-bfc6-90731d8c87b8.png)
 
 
-
 Must open options menu after enabling/disabling to see the changes.
 
-Will be working on making the Player 1 and 2 frame data toggle seperate from each other later on.
